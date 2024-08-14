@@ -1,0 +1,14 @@
+internal javascript
+external javascript
+
+console.log
+alert
+
+statement
+semicolons usage
+variable --> global scope= var , block scope= let , const
+
+variable declaration
+variable assignment
+
+maximum recommended line height 80 characters.
