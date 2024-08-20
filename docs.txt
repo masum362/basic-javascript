@@ -6,7 +6,7 @@ alert
 
 statement
 semicolons usage
-variable --> global scope= var , block scope= let , const
+variable --> function scope= var , block scope= let , const
 
 variable declaration
 variable assignment
